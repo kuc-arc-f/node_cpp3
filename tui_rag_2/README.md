@@ -78,3 +78,9 @@ hello , RAG search please
 ```
 
 ***
+### blog
+
+https://zenn.dev/knaka0209/scraps/de06073dc226af
+
+
+***
