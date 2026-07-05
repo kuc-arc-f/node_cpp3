@@ -27,7 +27,7 @@ node.js C++ , Ink TUI TODO SQLite
 
 * TODO APP
 
-![img1](/images/tui_sqlite_1.png)
+![img1](/images/tui_sqlite_1_2.png)
 
 
 ***
