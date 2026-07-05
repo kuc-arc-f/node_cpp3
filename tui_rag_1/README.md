@@ -81,3 +81,8 @@ hello , RAG search please
 ```
 
 ***
+### blog
+
+https://zenn.dev/knaka0209/scraps/269ba68fca911f
+
+***
